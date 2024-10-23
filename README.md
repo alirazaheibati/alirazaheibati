@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirazaheibati" alt="alirazaheibati" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ali-Mohebbi-Developer](https://github.com/alirazaheibati)
+- 👨‍💻 All of my projects are available at [https://github.com/AlirazaHeibati](https://github.com/alirazaheibati)
 
 - 💬 Ask me about **JavaScript,TypeScript,ReactJs,NextJs,Html5,Css3,Sass,Tailwind,BootStrap,MUI,ChakraUI**
 
-- 📫 How to reach me **alimohebbi565@gmail.com**
+- 📫 How to reach me **alirezaheibati1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
